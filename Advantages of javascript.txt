@@ -1,0 +1,4 @@
+Advantages of javascript 
+1. Client side execution
+2. validation on browser
+3. 
